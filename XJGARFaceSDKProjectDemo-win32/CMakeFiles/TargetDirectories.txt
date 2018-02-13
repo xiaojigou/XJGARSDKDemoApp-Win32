@@ -1,0 +1,4 @@
+G:/WorkSpace/sdm-master-face-surgery-gles/install=====/XJGSDMFaceSDKProjectDemo-win32/CMakeFiles/libXJGARSDKTest.dir
+G:/WorkSpace/sdm-master-face-surgery-gles/install=====/XJGSDMFaceSDKProjectDemo-win32/CMakeFiles/libXJGARSDKTest_simple.dir
+G:/WorkSpace/sdm-master-face-surgery-gles/install=====/XJGSDMFaceSDKProjectDemo-win32/CMakeFiles/ALL_BUILD.dir
+G:/WorkSpace/sdm-master-face-surgery-gles/install=====/XJGSDMFaceSDKProjectDemo-win32/CMakeFiles/ZERO_CHECK.dir
