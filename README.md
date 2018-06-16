@@ -18,7 +18,7 @@ Cmake: 3.6以上版本<br>
 5.生成解决方案，然后设置项目libXJGARSDKTest为启动项目，点击运行项目即可<br>
 ![image](https://github.com/TeacherLuo/XJGARSDKDemoApp-Win64/raw/master/ImageCache/4.png)<br>
 
-#免费License申请
+#免费License申请、贴纸制作工具地址
 ====================
 http://www.xiaojigou.cn 首页-》开发包-》说明文档-》XJGARSDK说明文档
 
